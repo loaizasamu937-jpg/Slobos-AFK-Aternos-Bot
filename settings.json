@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "SURVIVALITO",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "DiscoBrush4580",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "DiscoBrush4580-o7Ov.aternos.me",
+    "port": 17989,
+    "version": "1.26.21.1",
     "try-creative": false
   },
   "position": {
